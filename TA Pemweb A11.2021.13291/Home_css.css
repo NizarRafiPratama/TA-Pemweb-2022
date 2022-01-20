@@ -1,0 +1,81 @@
+.utama{
+    text-align: center;
+    align-items: center;
+}
+
+.tengah{
+    padding: 30px;
+}
+
+.tengah h2{
+    font-size: 35px;
+}
+
+.tengah h4{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-weight: 400px;
+}
+
+.tengah h4 , .tengah p{
+    font-weight: lighter;
+    letter-spacing: 1px;
+    width: 70%;
+    margin: 10px auto 0 auto;
+}
+
+.kotak{
+    background-color: rgb(5, 140, 224);
+    padding: 15px;
+    color: white;
+    margin: 20px;
+}
+
+.kotak a{
+    color: #2471A3;
+}
+
+input[type=text]{
+    text-align: center;
+    width:380px;
+    font-size: 20px;
+    height: 50px;
+    outline: none;
+    border: 1px;
+  }
+
+  input[type=email]{
+    text-align: center;
+    width:380px;
+    font-size: 20px;
+    height: 50px;
+    outline: none;
+    border: 1px;
+  }
+
+  input[type=number]{
+    text-align: center;
+    width:380px;
+    font-size: 20px;
+    height: 50px;
+    outline: none;
+    border: 1px;
+  }
+
+  .pesan{
+    resize:none;
+    width:380px;
+    font-size: 20px;
+    height: 100px;
+    outline: none;
+    border: 1px;
+  }
+
+  input[type=submit]{
+    text-align: center;
+    width:70px;
+    font-size: 20px;
+    height: 40px;
+    outline: none;
+    border: 1px;
+  }
